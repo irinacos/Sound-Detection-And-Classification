@@ -1,4 +1,4 @@
-# Tema: Clasificare si detectie de sunete
+# Clasificare si detectie de sunete
 
 ## Functiile implementate:
 
