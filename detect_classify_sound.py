@@ -44,7 +44,6 @@ def main():
     # feat_train: [D1, 2M]
     # feat_test: [D2, 2M]
 
-    # TODO: calculati trasaturile
     feat_train = get_features(audio_train_small, fs)
     feat_test = get_features(audio_test_small, fs)
 
@@ -60,7 +59,5 @@ def main():
     print(f'Accuracy on train: {acc_train:.2f}')
     print(f'Accuracy on test:  {acc_test:.2f}')
 
-
-# main function
 if __name__ == "__main__":
     main()
