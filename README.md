@@ -1,8 +1,5 @@
 # Tema: Clasificare si detectie de sunete
 
-Am rezolvat toate cele 5 cerinte si am obtinut acuratetea de 64% pe setul de test.
-
-
 ## Functiile implementate:
 
 ### 1. gabor_filter(size, sigma, freq)
